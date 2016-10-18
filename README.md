@@ -9,10 +9,12 @@ Currently the plugin exists as a seperate script called 'my-tree-generator.py', 
 
 ## Current State of Development Progress-
 able to generate something that kinda-looks like a tree as a silhouette. still needs a lot of work.
-![Development Progress 2](https://github.com/seanbud/my-tree-generator/blob/master/img/branching2.gif)
+
+![progress_img2](https://github.com/seanbud/my-tree-generator/blob/master/img/branching2.gif)
 
 
 
 ## previous progress benchmark-
-got the script running
-![Development Progress 1](https://github.com/seanbud/my-tree-generator/blob/master/img/branching1.gif)
+Just got the script running, not much to look at yet.
+
+![progress_img1](https://github.com/seanbud/my-tree-generator/blob/master/img/branching1.gif)
