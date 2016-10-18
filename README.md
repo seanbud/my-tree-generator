@@ -9,3 +9,4 @@ Currently the plugin exists as a seperate script called 'my-tree-generator.py', 
 
 ## Development Progress-
 
+![My image](seanbud.github.com/my-tree-generator/branching2.gif)
